@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-yr9Mtjr6TC)
 - Live Site URL: [Add live site URL here](https://fascinating-kelpie-5bd17f.netlify.app/)
 
 ## My process
